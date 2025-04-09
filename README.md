@@ -33,18 +33,6 @@ python fei_metadata_extractor.py
 
 ---
 
-## 📂 Project Structure
-
-```
-fei-metadata-extractor/
-├── fei_metadata_extractor.py
-├── README.md
-├── requirements.txt
-└── LICENSE (optional)
-```
-
----
-
 ## 💾 Output
 
 Generates `.txt` files containing:
