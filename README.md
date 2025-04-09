@@ -2,6 +2,9 @@
 
 A Python GUI application for extracting and saving microscopy metadata from FEI `.emi` and `.ser` files.
 
+![image](https://github.com/user-attachments/assets/02e5972a-c0fc-4331-a285-39b2558a31a9)
+
+
 ---
 
 ## 🛠 Features
