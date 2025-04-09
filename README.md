@@ -53,4 +53,4 @@ Designed and implemented by **Esmael Balaghi** @FischerLab.
 
 ## 🧭 License
 
-Licensed under the MIT License.
+Licensed under the GPL-3.0 license
